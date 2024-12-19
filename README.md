@@ -1,4 +1,4 @@
-# README: Labor Market Dynamics Study
+# Labor Market Dynamics Study
 
 ## Author
 **Oliver Nyrop Weeks**  
